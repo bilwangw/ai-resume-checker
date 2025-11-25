@@ -1,0 +1,8 @@
+keybert==0.9.0
+matplotlib==3.10.7
+pandas==2.3.3
+pdfplumber==0.11.8
+scikit_learn==1.7.2
+seaborn==0.13.2
+skillner==1.0.3
+spacy==3.8.11
