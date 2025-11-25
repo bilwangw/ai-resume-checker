@@ -1,0 +1,23 @@
+                    Resume                               Job
+0        rapid prototyping             business intelligence
+1                      com          configuration management
+2         operating system         infrastructure automation
+3                      CSS            test drive development
+4                     HTML               write communication
+5                      c #              software development
+6               express js                   test automation
+7         personal finance                   job description
+8          task management                  computer science
+9                  node js                               com
+10                back end  software development methodology
+11             3d printing                      data science
+12  mechanical engineering                              SOAP
+13         web development                  build automation
+14            raspberry pi                                 -
+15         spring security                                 -
+16         data collection                                 -
+17            scikit learn                                 -
+18        computer science                                 -
+19            react native                                 -
+20  robot operating system                                 -
+21                     API                                 -
